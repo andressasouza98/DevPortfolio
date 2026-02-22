@@ -1,4 +1,4 @@
-# 💻 DevPortfólio - SCTECH
+# 💻 DevPortfólio 
 
 Bem-vindo(a) ao meu portfólio!  
 Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades como **Desenvolvedora Front-end**, reunindo informações sobre mim, minhas competências técnicas e projetos.
@@ -22,6 +22,7 @@ Este projeto foi desenvolvido utilizando:
 - JavaScript
 - Git & GitHub
 - Visual Studio Code
+- CodeSandBox
 
 ---
 
@@ -50,15 +51,6 @@ devportfolio-sctech/
 |── README.md
 |──styles.css
 
-
-🌐 Projeto Online
-
-🔗 Acesse o portfólio publicado no GitHub Pages:
-👉 https://seu-usuario.github.io/devportfolio-sctech
-
-(Substitua pelo seu link real)
-
-📸 Preview
 
 📬 Contato
 
